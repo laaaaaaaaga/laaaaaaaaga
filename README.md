@@ -24,7 +24,7 @@ IT student @PJATK, Warsaw
 Learning C, Java, C# + .net, Python, SQL.
 
 * 🌍  I'm based in Warsaw
-* 🖥️  See my portfolio at [University github](http://github.com/s21258) & here.
+* 🖥️  See my portfolio [here](http://github.com/laaaaaaaaga) & at [University github account](http://github.com/s21258).
 * ✉️  You can contact me at [marcingrelak6@gmail.com](mailto:marcingrelak6@gmail.com)
 <!--
 ## * 🚀  I'm currently working on [engineering thesis in cybersecurity](http://127.0.0.1)
