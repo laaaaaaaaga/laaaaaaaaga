@@ -26,8 +26,10 @@ Learning C, Java, C# + .net, Python, SQL.
 * 🌍  I'm based in Warsaw
 * 🖥️  See my portfolio at [University github](http://github.com/s21258) & here.
 * ✉️  You can contact me at [marcingrelak6@gmail.com](mailto:marcingrelak6@gmail.com)
+<!--
 ## * 🚀  I'm currently working on [engineering thesis in cybersecurity](http://127.0.0.1)
 ## * 🧠  I'm learning Blazor
+-->
 * ⚡  Looking for opportunity to prove my knowledge in professional enviroment!
 
 ### Skills
