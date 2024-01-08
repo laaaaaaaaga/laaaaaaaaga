@@ -51,7 +51,7 @@ Learning C, Java, C# + .net, Python, SQL.
 
 
 <a href="https://github.com/laaaaaaaaga">
-  <img height=200 align="center" src="https://first-vercel-repo-murex.vercel.app/api?username=laaaaaaaaga&show_icons=true&theme=cobalt" />
+  <img height=200 align="center" src="https://first-vercel-repo-murex.vercel.app/api?username=laaaaaaaaga&show_icons=true&theme=cobalt&card_width=220" />
 </a>
 <a href="https://github.com/laaaaaaaaga">
   <img height=200 align="center" src="https://first-vercel-repo-murex.vercel.app/api/top-langs/?username=laaaaaaaaga&theme=cobalt&layout=compact&langs_count=8&card_width=220" />
