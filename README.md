@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **laaaaaaaaga/laaaaaaaaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,8 @@
 ## - ⚡ Fun fact: ...
 -->
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Marcin Grelak
+<br>
+My name is Marcin Grelak</br>
 ====================================================================================================================================
 
 IT student @PJATK, Warsaw
@@ -25,13 +24,13 @@ Learning C, Java, C# + .net, Python, SQL.
 
 * 🌍  I'm based in Warsaw
 * 🖥️  See my portfolio [here](http://github.com/laaaaaaaaga)
-* & at [University github account](http://github.com/s21258).
+* & at [Private university github account](http://github.com/s21258) available on request.
 * ✉️  You can contact me at [marcingrelak6@gmail.com](mailto:marcingrelak6@gmail.com)
-<!--
-## * 🚀  I'm currently working on [engineering thesis in cybersecurity](http://127.0.0.1)
-## * 🧠  I'm learning Blazor
--->
 * ⚡  Looking for opportunity to prove my knowledge in professional enviroment!
+<!--
+* 🚀  I'm currently working on [engineering thesis in cybersecurity](http://127.0.0.1)
+* 🧠  I'm learning Blazor
+-->
 
 ### Skills
 
@@ -43,11 +42,25 @@ Learning C, Java, C# + .net, Python, SQL.
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/marcin.grelak.3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/laaaaaaaaga" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/placeholder" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/laaga" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
+ <a href="https://www.facebook.com/marcin.grelak.3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/laaaaaaaaga" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/placeholder" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></picture></a>
 <!--
-<a href="http://www.github.com/laaaaaaaaga"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=laaaaaaaaga&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### Badges
+-->
+## <b>My GitHub Stats</b>
+
+
+<a href="https://github.com/laaaaaaaaga">
+  <img height=200 align="center" src="https://first-vercel-repo-murex.vercel.app/api?username=laaaaaaaaga&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/laaaaaaaaga">
+  <img height=200 align="center" src="https://first-vercel-repo-murex.vercel.app/api/top-langs/?username=laaaaaaaaga&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+<!--
+
+more options for stats for future upgrades
+&hide=stars,commits,prs,issues,contribs
+&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+
 -->
