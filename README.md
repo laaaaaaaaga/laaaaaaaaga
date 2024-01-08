@@ -24,8 +24,9 @@ Learning C, Java, C# + .net, Python, SQL.
 
 * 🌍  I'm based in Warsaw
 * 🖥️  See my portfolio [here](http://github.com/laaaaaaaaga)
-* & at [Private university github account](http://github.com/s21258) available on request.
+* & at [Private student github account](http://github.com/s21258) available on request.
 * ✉️  You can contact me at [marcingrelak6@gmail.com](mailto:marcingrelak6@gmail.com)
+* 🚀  I'm currently working on migrating my work from uni repo to here. 
 * ⚡  Looking for opportunity to prove my knowledge in professional enviroment!
 <!--
 * 🚀  I'm currently working on [engineering thesis in cybersecurity](http://127.0.0.1)
@@ -53,7 +54,7 @@ Learning C, Java, C# + .net, Python, SQL.
   <img height=200 align="center" src="https://first-vercel-repo-murex.vercel.app/api?username=laaaaaaaaga&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/laaaaaaaaga">
-  <img height=200 align="center" src="https://first-vercel-repo-murex.vercel.app/api/top-langs/?username=laaaaaaaaga&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://first-vercel-repo-murex.vercel.app/api/top-langs/?username=laaaaaaaaga&theme=cobalt&layout=compact&langs_count=8&card_width=220" />
 </a>
 
 
