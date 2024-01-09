@@ -1,4 +1,4 @@
-![image](https://github.com/laaaaaaaaga/laaaaaaaaga/assets/108537513/81df16a6-15de-4c00-9d8e-4ab3438b8ee2)<!--
+<!--
 **laaaaaaaaga/laaaaaaaaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Here are some ideas to get you started:
