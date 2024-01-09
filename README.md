@@ -1,4 +1,4 @@
-<!--
+![image](https://github.com/laaaaaaaaga/laaaaaaaaga/assets/108537513/81df16a6-15de-4c00-9d8e-4ab3438b8ee2)<!--
 **laaaaaaaaga/laaaaaaaaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Here are some ideas to get you started:
@@ -7,8 +7,8 @@
 ## - 🌱 I’m currently learning ...
 ## - 👯 I’m looking to collaborate on ...
 ## - 🤔 I’m looking for help with ...
-## - 💬 Ask me about ...
-## - 📫 How to reach me: ...
+## -  Ask me about ...
+## -  How to reach me: ...
 ## - 😄 Pronouns: ...
 ## - ⚡ Fun fact: ...
 -->
@@ -23,10 +23,11 @@ IT student @PJATK, Warsaw
 Learning C, Java, C# + .net, Python, SQL.
 
 * 🌍  I'm based in Warsaw
+* 💬  I speak Polish (native), English (CEFR B2), Russian(comunicatively competent), and I'm learning Spanish!
+* 📫  You can contact me at [marcingrelak6@gmail.com](mailto:marcingrelak6@gmail.com)
 * 🖥️  See my portfolio [here](http://github.com/laaaaaaaaga)
 * & at [Private student github account](http://github.com/s21258) available on request.
-* ✉️  You can contact me at [marcingrelak6@gmail.com](mailto:marcingrelak6@gmail.com)
-* 🚀  I'm currently working on migrating my work from uni repo to here. 
+* 🚀  I'm currently working on migrating my work from uni repo to here, and creating a good CV. 
 * ⚡  Looking for opportunity to prove my knowledge in professional enviroment!
 <!--
 * 🚀  I'm currently working on [engineering thesis in cybersecurity](http://127.0.0.1)
